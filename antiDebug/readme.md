@@ -1,0 +1,2 @@
+## Brief Write Up:
+Lưu ciphertext cùng với key vào trong stack, sau đó dump stack ra file `dump` cùng với leak một vài kí tự đầu tiên của ciphertext để xác định được vị trí của ciphertext cùng với key trong stack.

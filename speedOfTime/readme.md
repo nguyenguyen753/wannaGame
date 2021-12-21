@@ -1,0 +1,2 @@
+## Brief Write Up
+Generate ra một dãy kí tự random với random seed từ 0 -> 999, sau đó thực hiện xor -> custom base64 -> xor để check password. Đặt thêm `fork()` với mục đích gây khó khăn cho beginner.

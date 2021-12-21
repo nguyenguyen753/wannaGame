@@ -1,0 +1,3 @@
+nguyenguyen753@ubuntu:~/Desktop/chalWriting/anti_debugger$ ./a.out 
+Oh no, the stupid author leaked something:
+98 9D 8C
